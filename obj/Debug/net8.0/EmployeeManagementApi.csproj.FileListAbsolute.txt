@@ -132,3 +132,4 @@ C:\Users\admin\Documents\EmployeeManagement\EmployeeManagementApi\bin\Debug\net8
 C:\Users\admin\Documents\EmployeeManagement\EmployeeManagementApi\bin\Debug\net8.0\employee-management\tsconfig.app.json
 C:\Users\admin\Documents\EmployeeManagement\EmployeeManagementApi\bin\Debug\net8.0\employee-management\tsconfig.json
 C:\Users\admin\Documents\EmployeeManagement\EmployeeManagementApi\bin\Debug\net8.0\employee-management\tsconfig.spec.json
+C:\Users\admin\Documents\EmployeeManagement\EmployeeManagementApi\obj\Debug\net8.0\EmployeeManagementApi.sourcelink.json
