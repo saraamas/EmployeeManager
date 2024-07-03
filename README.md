@@ -1,0 +1,1 @@
+The Employee Management System is designed to manage employee records, including adding, viewing, editing, and deleting employees. The backend is built using .NET 8 and Entity Framework Core with a SQLite database. The frontend is developed using Angular, providing a responsive and dynamic user interface.
